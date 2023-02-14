@@ -1,0 +1,1 @@
+# smile_auto_shoot_camera
